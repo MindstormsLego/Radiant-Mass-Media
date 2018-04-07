@@ -1401,3 +1401,7 @@ LineResult()
         return false
     return getDialogLineNumber()
 }
+
+F11::
+addchatmessage("обновка")
+return
